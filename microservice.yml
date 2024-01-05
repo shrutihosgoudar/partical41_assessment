@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: simpletimeservice
-          image: yourdockerhubusername/simpletimeservice:v1
+          image: shrutihosagoudar/simpletimeservice:v1
           ports:
             - containerPort: 5000
 ---
